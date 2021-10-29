@@ -14,8 +14,6 @@ https://www.sandiegopython.org
 https://www.meetup.com/pythonsd/events/280979861/
 
 
- - Dan King - San Diego Python User Group - 2021-10-28.pdf
-
 ## 2021-09-23
 
 "How to deploy a Python Flask web app to the cloud"
